@@ -3,7 +3,7 @@
 
 Map of the castle: 
 
-At first, you are at the entrance. From there you will move to the grand hall(north). There is a key
+At first, you are at the entrance. From there you will move to the grand hall(north). There is a torch
 there which you will use to lighten up the library. To the east, there is a library.
 You will use a torch there and bring a book. Then you will solve the riddle of the book. When you
 will solve it the door of the basement will automatically be unlocked (it was locked before). Then to 
